@@ -1,0 +1,13 @@
+h4{
+    color: rgb(255, 0, 255);
+}
+
+#today{
+    color:aqua
+}
+.intro{
+    color:blue
+}
+.intro:hover{
+    color:rgb(255, 0, 255)
+}
