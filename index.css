@@ -6,8 +6,11 @@ h4{
     color:aqua
 }
 .intro{
-    color:blue
+    color:rgb(0, 0, 0)
 }
 .intro:hover{
     color:rgb(255, 0, 255)
+}
+a:hover{
+    color:rgba(82, 188, 7, 0.699)
 }
