@@ -1,0 +1,9 @@
+.header{
+    background-color: yellow;
+
+}
+
+#form{
+display: flex;;
+padding:2rem;
+}
